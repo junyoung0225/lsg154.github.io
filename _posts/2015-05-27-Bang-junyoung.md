@@ -38,7 +38,7 @@ Daum image : ![Daum Logo](http://icon.daumcdn.net/w/icon/1312/19/152729032.png)
 	- There is the other list!
 	- 
 {% highlight ruby %}
-// this is code.
+// CODE>>
     #include<sdio.h>
     int main(void)
     {
