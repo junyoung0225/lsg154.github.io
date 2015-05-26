@@ -23,7 +23,9 @@ Daum image : ![Daum Logo](http://icon.daumcdn.net/w/icon/1312/19/152729032.png)
 네이버링크(인라인링크) : [Naver](http://www.naver.com)
 
 참조 링크 : [Google] [1].
-[1]: https//www.google.com/ 
+
+[1]: http://www.google.com/
+
 
 |Tables    | Are   | cool |
 |---|---|---|
@@ -31,20 +33,15 @@ Daum image : ![Daum Logo](http://icon.daumcdn.net/w/icon/1312/19/152729032.png)
 | hello    | Park  | bad  |
 
 1. 숫자 리스트 아래
-   - List here.
-      * There is one list!
-   - There is the other list!
-
-
-{%highlight ruby %}
-
-`#include`
-
-`int main()`
-
-`{`
-`   int a = 4;`
-`   return a;`
-`}`
-
+	- List here.
+		* There is one list!
+	- There is the other list!
+	- 
+{% highlight ruby %}
+// this is code.
+    #include<sdio.h>
+    int main(void)
+    {
+    printf("welcom world");
+    }
 {% endhighlight %}
