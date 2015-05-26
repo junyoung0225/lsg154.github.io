@@ -22,19 +22,20 @@ Daum image : ![Daum Logo](http://icon.daumcdn.net/w/icon/1312/19/152729032.png)
 
 네이버링크(인라인링크) : [Naver](http://www.naver.com)
 
-참조 링크 : [daum] [daum] 
-[daum]: https://www.daum.net/ "DAUM"
-
+참조 링크 : [Google] [1].
+[1] : https//www.google.com/ 
 
 |Tables    | Are   | cool |
 |---|---|---|
 | col 3 is |robot  | good |
 | hello    | Park  | bad  |
 
-1. 숫자 리스트 아래
+1. 숫자 리스트...
    - 여기 리스트가 있습니다.
-      * 여기두용!
-   - 저도욨 !
+      *추가내용 1
+   -추가내용2
+
+{%highlight ruby %}
 
 `#include`
 
@@ -44,3 +45,5 @@ Daum image : ![Daum Logo](http://icon.daumcdn.net/w/icon/1312/19/152729032.png)
 `   int a = 4;`
 `   return a;`
 `}`
+
+{% endhighlight %}
