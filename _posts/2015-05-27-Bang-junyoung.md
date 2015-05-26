@@ -13,8 +13,8 @@
 Daum image : ![Daum Logo](http://icon.daumcdn.net/w/icon/1312/19/152729032.png)
 
 > 인용입니다.
-> 두번쨰인용입니다.~~
-> 세번쨰인용입니다.
+> 두번째인용입니다.
+> 세번째인용입니다.
 
 1. Banana
 2. apple
