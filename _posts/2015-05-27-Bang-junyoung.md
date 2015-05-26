@@ -23,7 +23,7 @@ Daum image : ![Daum Logo](http://icon.daumcdn.net/w/icon/1312/19/152729032.png)
 네이버링크(인라인링크) : [Naver](http://www.naver.com)
 
 참조 링크 : [Google] [1].
-[1] : https//www.google.com/ 
+[1]: https//www.google.com/ 
 
 |Tables    | Are   | cool |
 |---|---|---|
