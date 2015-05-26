@@ -12,9 +12,9 @@
 
 Daum image : ![Daum Logo](http://icon.daumcdn.net/w/icon/1312/19/152729032.png)
 
-> 이것이 인용입니다.
-> 인용인용~~
-> 인용~~
+> 인용입니다.
+> 두번쨰인용입니다.~~
+> 세번쨰인용입니다.
 
 1. Banana
 2. apple
@@ -36,7 +36,7 @@ Daum image : ![Daum Logo](http://icon.daumcdn.net/w/icon/1312/19/152729032.png)
 	- List here.
 		* There is one list!
 	- There is the other list!
-	- 
+	
 {% highlight ruby %}
 // CODE>>
     #include<sdio.h>
