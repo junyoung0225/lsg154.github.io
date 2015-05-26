@@ -30,7 +30,7 @@ Daum image : ![Daum Logo](http://icon.daumcdn.net/w/icon/1312/19/152729032.png)
 | col 3 is |robot  | good |
 | hello    | Park  | bad  |
 
-1. 숫자 리스트...
+1. 숫자 리스트 아래
    - 여기 리스트가 있습니다.
       *추가내용 1
    -추가내용2
