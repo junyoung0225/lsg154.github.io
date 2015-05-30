@@ -12,11 +12,11 @@ paginate: 5
 
 navigation:
  - title: Home
-   url: /
+   url: /index.html
  - title: About
    url: /about
  - title: Post
-   url: /index.html
+   url: /post
 
 social:
    github: brianmaierjr
