@@ -11,11 +11,11 @@ highlighter: pygments
 paginate: 5
 
 navigation:
- - title: Home
+ - title: 홈
    url: /index.html
  - title: About
    url: /about
- - title: Contact
+ - title: 포스트
    url: /contact
 
 social:
