@@ -1,8 +1,7 @@
 ---
-layout : default
-title : post
+layout: default
 ---
-문제들
+
 <div class="home" id="home">
   <h1 class="pageTitle">Recent Posts</h1>
   <ul class="posts noList">
