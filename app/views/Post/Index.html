@@ -1,0 +1,23 @@
+{{set . "title" "All Posts"}}
+{{template "top.html" .}}
+
+{{range .posts}}
+  <div class="blog-post">
+    <h2 class="blog-post-title"><a href="{{url "Post.Show" .Id}}">{{.Title}}</a></h2>
+    <p class="blog-post-meta">{{formatDate .CreatedAt}}</p>
+
+    <p>
+      {{.HtmlBody}}
+    </p>
+  </div>
+{{end}}
+
+{{if isAdmin .currentUser }}
+  <nav>
+    <ul class="pager">
+      <li><a href="{{url "Post.New"}}">New</a></li>
+    </ul>
+  </nav>
+{{end}}
+
+{{template "bottom.html" .}}
