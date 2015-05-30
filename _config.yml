@@ -11,12 +11,12 @@ highlighter: pygments
 paginate: 5
 
 navigation:
- - title: 홈
-   url: /index.html
+ - title: Home
+   url: /
  - title: About
    url: /about
- - title: 포스트
-   url: /contact
+ - title: Post
+   url: /index.html
 
 social:
    github: brianmaierjr
