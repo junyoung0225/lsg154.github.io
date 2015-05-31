@@ -2,8 +2,8 @@ package controllers
 
 import (
 	"github.com/revel/revel"
-	"lsg154.github.io/app/models"
-	"lsg154.github.io/app/routes"
+	"goblog/app/models"
+	"goblog/app/routes"
 )
 
 type Comment struct {

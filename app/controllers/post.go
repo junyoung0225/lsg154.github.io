@@ -3,8 +3,8 @@ package controllers
 import (
 	"github.com/revel/revel"
 	"github.com/russross/blackfriday"
-	"lsg154.github.io/app/models"
-	"lsg154.github.io/app/routes"
+	"goblog/app/models"
+	"goblog/app/routes"
 	"html/template"
 )
 

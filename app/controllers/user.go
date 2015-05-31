@@ -3,7 +3,7 @@ package controllers
 import (
 	"code.google.com/p/go.crypto/bcrypt"
 	"github.com/revel/revel"
-	"lsg154.github.io/app/models"
+	"goblog/app/models"
 )
 
 type User struct {
