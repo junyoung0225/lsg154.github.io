@@ -4,7 +4,7 @@ import (
 	"code.google.com/p/go.crypto/bcrypt"
 	"github.com/jinzhu/gorm"
 	"github.com/revel/revel"
-	"goblog/app/models"
+	"lsg154.github.io/app/models"
 )
 
 var (
