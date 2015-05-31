@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"goblog/app/models"
+	"lsg154.github.io/app/models"
 )
 
 type App struct {
