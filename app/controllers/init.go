@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"github.com/revel/revel"
-	"goblog/app/models"
+	"lsg154.github.io/app/models"
 	"log"
 )
 
