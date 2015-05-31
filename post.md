@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="home" id="home">
+<div class="post" id="post">
   <h1 class="pageTitle">Recent Posts</h1>
   <ul class="posts noList">
     {% for post in paginator.posts %}
