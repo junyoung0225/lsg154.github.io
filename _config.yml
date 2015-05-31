@@ -3,8 +3,8 @@ description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: http://lsg154.github.io
 baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+paginate_path: "post/page:num/"
+permalink: post/:title/
 
 markdown: redcarpet
 highlighter: pygments
