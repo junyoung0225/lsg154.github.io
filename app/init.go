@@ -2,7 +2,7 @@ package app
 
 import (
 	"github.com/revel/revel"
-	"goblog/app/models"
+	"lsg154.github.io/app/models"
 	"time"
 )
 
